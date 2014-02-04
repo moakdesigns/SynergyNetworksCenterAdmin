@@ -1,0 +1,74 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+body {
+	padding: 20px 0 0;
+}
+
+
+
+fieldset legend small {
+	color: #777;
+	font-size: 13px;
+	font-weight: lighter;
+}
+
+
+
+.hide_captcha {
+	display: none;
+}
+
+
+
+.page-edit-account img {
+	margin-top: 5px;
+}
+.page-edit-account .current-avatar {
+	margin-bottom: 10px;
+}
+
+
+
+.page-footer {
+	border-top: 1px solid #ccc;
+	font-size: 11px;
+	padding-top: 10px;
+}
+
+
+
+.row-with-vspace {
+	margin-bottom: 20px;
+}
+
+
+
+.sidebar h3 {
+	margin-top: 0;
+}
+.sidebar .sidebar-block {
+	margin-bottom: 20px;
+}
+
+
+
+.txt_require {
+	color: #f00;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+
+.webpage-header {
+	border-bottom: 3px solid #ddd;
+}
+.webpage-header h1 {
+	margin-top: 0;
+}
+
+
