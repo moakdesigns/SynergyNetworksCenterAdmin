@@ -20,7 +20,7 @@ class Controller_Index extends \Controller
 		\Lang::load('fslang', 'fslang');
 		
 		// <head> output ----------------------------------------------------------------------------------------------
-		$output['page_title'] = 'Fuel Start';
+		$output['page_title'] = 'Synergy Networks Center';
 		
 		// example for asset and theme asset
 		//\Asset::css('bootstrap.min.css', array(), 'fuelstart');

@@ -12,7 +12,7 @@ if (!defined('THEMEDIR')) {
 }
 
 return array(
-	'active' => 'system',
+	'active' => 'snc',
 	'assets_folder' => 'assets',
 	'fallback' => 'system',
 	'paths' => array(

@@ -78,12 +78,11 @@ return array(
 	/**
 	 * Localization & internationalization settings
 	 */
-	'language'           => 'th', // Default language
-	'language_fallback'  => 'en', // Fallback language when file isn't available for default language
+	'language'           => 'en', // Default language
+	// 'language_fallback'  => 'en', // Fallback language when file isn't available for default language
 	'locale'             => '',//en_US', // PHP set_locale() setting, null to not set
 	'locales'            => array(
 		'en' => array('locale' => 'en_US', 'name' => 'English'),
-		'th' => array('locale' => 'th_TH', 'name' => 'Thai'),
 	),
 
 	/**
@@ -201,7 +200,7 @@ return array(
 		// Only transmit cookies over HTTP, disabling Javascript access
 		'http_only'   => false,
 		// cookie prefix (by Vee Winch)
-		'prefix' => 'fuelstart_',
+		'prefix' => 'synergynetworkscenter_',
 	),
 
 	/**
